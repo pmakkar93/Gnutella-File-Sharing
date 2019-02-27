@@ -1,0 +1,61 @@
+#Peer Properties: Peer_ID,Peer_Port,Dir,SuperPeer
+*Peer
+P01,4001,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP01
+*Peer
+P02,4002,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer2,SP01
+*Peer
+P03,4003,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer3,SP01
+*Peer
+P04,4004,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer4,SP02
+*Peer
+P05,4005,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer5,SP02
+*Peer
+P06,4006,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer6,SP02
+*Peer
+P07,4007,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer7,SP03
+*Peer
+P08,4008,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer8,SP03
+*Peer
+P09,4009,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP03
+*Peer
+P10,4010,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP04
+*Peer
+P11,4011,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP04
+*Peer
+P12,4012,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP04
+*Peer
+P13,4013,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP05
+*Peer
+P14,4014,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP05
+*Peer
+P15,4015,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP05
+*Peer
+P16,4016,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP06
+*Peer
+P17,4017,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP06
+*Peer
+P18,4018,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP06
+*Peer
+P19,4019,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP07
+*Peer
+P20,4020,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP07
+*Peer
+P21,4021,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP07
+*Peer
+P22,4022,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP08
+*Peer
+P23,4023,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP08
+*Peer
+P24,4024,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP08
+*Peer
+P25,4025,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP09
+*Peer
+P26,4026,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP09
+*Peer
+P27,4027,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP09
+*Peer
+P28,4028,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP10
+*Peer
+P29,4029,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP10
+*Peer
+P30,4030,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-2\Eval_Peer1,SP10
