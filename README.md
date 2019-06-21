@@ -1,4 +1,4 @@
-# Napster-File-Sharing
+# Gnutella-File-Sharing
 
 CS550 Programming Assignment 2 (PA#2)
 A Hierarchical Gnutella-style P2P File Sharing System
